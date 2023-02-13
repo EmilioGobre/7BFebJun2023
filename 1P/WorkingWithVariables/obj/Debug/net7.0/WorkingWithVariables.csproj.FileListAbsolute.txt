@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/bin/Debug/net7.0/WorkingWithVariables
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/bin/Debug/net7.0/WorkingWithVariables.deps.json
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/bin/Debug/net7.0/WorkingWithVariables.runtimeconfig.json
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/bin/Debug/net7.0/WorkingWithVariables.dll
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/bin/Debug/net7.0/WorkingWithVariables.pdb
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.dll
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/refint/WorkingWithVariables.dll
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.pdb
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/WorkingWithVariables.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Code/7BFebJun2023/1P/WorkingWithVariables/obj/Debug/net7.0/ref/WorkingWithVariables.dll
