@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 namespace PeopleLibrary
 {
     public class Person
@@ -8,7 +9,10 @@ namespace PeopleLibrary
         // protected also as private and also inherited classes
         // Properties
         public string? SurName { get; set; }
-
+        public DateTime DateOfBirth { get; set; }
+        public FavoriteFood favoriteFood;
+        // net 6 new()
+        public List<Person> Children;
         // Methods
         public string? getSurName()
         {
@@ -29,11 +33,12 @@ namespace PeopleLibrary
         public Person(string firstName)
         {
             Name = firstName;
+            Children = new();
         }
 
-        public Person(string firstName, string surName)
+        public Person(string firstName, string surName = "N/A")
         {
-            
+
         }
     }
 }
