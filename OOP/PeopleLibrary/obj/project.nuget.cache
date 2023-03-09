@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7AWyTfoBeCiDwar21pTzSFh2xgSeOytuYLzg61kSBoj6w/JwpCZ5QoTbbl8S3WFTfB7bNBk/kU5YtIgWKq1ZtA==",
+  "dgSpecHash": "pj4UyLM26LAzw9fKzFToHs5F62QZFpEwhC04MUkyalmFbDE/eKazfHDg4mrHzG8UpFfW/Qe1dbPaCPV7XbO/IA==",
   "success": true,
-  "projectFilePath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/PeopleLibrary.csproj",
+  "projectFilePath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj",
   "expectedPackageFiles": [
-    "/Users/angelbrambila/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/angelbrambila/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\lime1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lime1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

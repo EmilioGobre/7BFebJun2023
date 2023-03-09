@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/angelbrambila/.nuget/packages/": {}
+    "C:\\Users\\lime1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleApp/PeopleApp.csproj",
+      "projectUniqueName": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleApp/PeopleApp.csproj",
-      "packagesPath": "/Users/angelbrambila/.nuget/packages/",
-      "outputPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleApp/obj/",
+      "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\lime1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lime1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/PeopleLibrary.csproj": {
-              "projectPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/PeopleLibrary.csproj"
+            "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj": {
+              "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj"
             }
           }
         }
@@ -82,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

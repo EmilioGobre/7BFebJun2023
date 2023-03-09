@@ -1,11 +1,15 @@
 ﻿using PeopleLibrary;
 using static System.Console;
 
-Person dante = new Person();
-dante.Name = "Dante";
-dante.SurName = "Cruz";
-Person luis = new Person("Luis");
-luis.favoriteFood = FavoriteFood.Mole;
+Person dante = new()
+{
+    Name = "Dante",
+    SurName = "Cruz"
+};
+Person luis = new("Luis")
+{
+    favoriteFood = FavoriteFood.Mole
+};
 WriteLine($"Hello {dante.Name}");
 WriteLine($"Val of Mole is {(int)FavoriteFood.Mole}");
 WriteLine($"Hi {luis.Name} : your favorite food is {luis.favoriteFood}");

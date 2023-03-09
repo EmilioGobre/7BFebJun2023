@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/angelbrambila/.nuget/packages/": {}
+    "C:\\Users\\lime1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/PeopleLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj",
       "projectName": "PeopleLibrary",
-      "projectPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/PeopleLibrary.csproj",
-      "packagesPath": "/Users/angelbrambila/.nuget/packages/",
-      "outputPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/OOP/PeopleLibrary/obj/",
+      "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj",
+      "packagesPath": "C:\\Users\\lime1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lime1\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -234,7 +234,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
