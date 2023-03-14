@@ -33,7 +33,7 @@ else
         case 1:
         WriteLine("One");
         break;
-        
+
         case 2:
         WriteLine("Two");
         goto case 1;// Spaghetti Code
