@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
+      "projectPath": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\lime1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\obj\\",
+      "outputPath": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lime1\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj": {
-              "projectPath": "C:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj"
+            "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj": {
+              "projectPath": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\OOP\\PeopleLibrary\\PeopleLibrary.csproj"
             }
           }
         }

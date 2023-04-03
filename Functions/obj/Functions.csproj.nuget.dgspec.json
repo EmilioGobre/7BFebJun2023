@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/angelbrambila/Documents/Code/7BFebJun2023/Functions/Functions.csproj": {}
+    "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\Functions\\Functions.csproj": {}
   },
   "projects": {
-    "/Users/angelbrambila/Documents/Code/7BFebJun2023/Functions/Functions.csproj": {
+    "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\Functions\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/angelbrambila/Documents/Code/7BFebJun2023/Functions/Functions.csproj",
+        "projectUniqueName": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\Functions\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/Functions/Functions.csproj",
-        "packagesPath": "/Users/angelbrambila/.nuget/packages/",
-        "outputPath": "/Users/angelbrambila/Documents/Code/7BFebJun2023/Functions/obj/",
+        "projectPath": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\Functions\\Functions.csproj",
+        "packagesPath": "C:\\Users\\lime1\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\lime1\\OneDrive\\Documentos\\VSC C#\\7BFebJun2023\\Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/angelbrambila/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lime1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
